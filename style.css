@@ -39,7 +39,7 @@ p {
 
 p:last-child {
   color: hsl(220, 15%, 55%);
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 400;
   padding-top: 20px;
 }
